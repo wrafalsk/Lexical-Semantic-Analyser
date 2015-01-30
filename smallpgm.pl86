@@ -1,0 +1,12 @@
+program
+
+int i, j;
+
+i = 1;
+j = 2;
+
+i = i + j;
+
+j = i = x;
+
+end
