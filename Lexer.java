@@ -211,3 +211,4 @@ class Lexer extends Token{
             	READ = 18,
             	PRINT = 19;
 }
+
