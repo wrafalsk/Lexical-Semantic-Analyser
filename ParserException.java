@@ -12,3 +12,4 @@ class ParserException extends Exception {
 		super(tokenCopy + message);
 	}
 }
+
